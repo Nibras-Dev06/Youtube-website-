@@ -5,7 +5,7 @@ A pixel-perfect, responsive replica of the YouTube homepage UI. This project was
 ![Project Preview](/Capture%20d’écran%202026-11-11%20125803.jpg) 
 
 ## 🚀 Live Demo
-[View Live Demo](https://https://nibras-dev06.github.io/Youtube-website-/)
+[View Live Demo](https://nibras-dev06.github.io/Youtube-website-/)
 
 ## 🛠️ Tech Stack
 * **HTML5:** Semantic markup structure (header, main, nav, section, article).
